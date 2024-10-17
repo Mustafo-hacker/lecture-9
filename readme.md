@@ -62,3 +62,20 @@ promise with a response object, which contains additional information (response 
 headers) and the response to the request.
 
 ![](./i%20(4).webp)
+
+# Fetch using Promise
+
+![](./Снимок%20экрана%202024-10-17%20142958.png)
+
+# Fetch using async, get
+
+![](./Снимок%20экрана%202024-10-17%20143202.png)
+
+# Fetch using async, Put (edit)
+![](./Снимок%20экрана%202024-10-17%20143342.png)
+
+# Fetch using async, DELETE
+
+![](./Снимок%20экрана%202024-10-17%20143602.png)
+
+![](./i%20(5).webp)
